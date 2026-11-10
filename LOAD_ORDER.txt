@@ -1,5 +1,0 @@
-Replace the script section at the bottom of index.html with exactly:
-
-<script src="./questions.js?v=5"></script>
-<script src="./update-v5.js?v=5"></script>
-<script src="./script.js?v=5"></script>
