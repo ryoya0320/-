@@ -1,0 +1,13 @@
+{
+  "name":"StudyFlow - 勉強記録アプリ",
+  "short_name":"StudyFlow",
+  "description":"勉強時間、問題演習、目標を端末内に記録する学習アプリ",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f5f5f7",
+  "theme_color":"#007aff",
+  "lang":"ja",
+  "orientation":"portrait-primary",
+  "icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
