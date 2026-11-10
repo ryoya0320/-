@@ -1,4 +1,0 @@
-window.MEMORIA_CONFIG = {
-  supabaseUrl: "",
-  supabaseAnonKey: ""
-};
